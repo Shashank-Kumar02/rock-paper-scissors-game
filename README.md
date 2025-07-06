@@ -3,11 +3,12 @@
 <br/>
 # 🪨 Rock Paper Scissors Game ✂️
 <br/>
-## 🖥️ Demo
-<br/>
+# 🖥️ Demo
+<br/><br/>
 **Game Screenshot:-** https://drive.google.com/file/d/1EK6-z0N7Ssjhj-wRAOBvso_XeLbxSYin/view?usp=sharing
+<br/><br/>
+# 🎮 How to Play
 <br/>
-## 🎮 How to Play
 - Click on **Rock**, **Paper**, or **Scissors**.
   <br/>
 - The computer will randomly choose its move.
