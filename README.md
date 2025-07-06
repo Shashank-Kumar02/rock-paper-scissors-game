@@ -3,11 +3,11 @@
 <br/>
 # 🪨 Rock Paper Scissors Game ✂️
 <br/>
-**# 🖥️ Demo**
+**🖥️ Demo**
 <br/>
 **Game Screenshot:-** https://drive.google.com/file/d/1EK6-z0N7Ssjhj-wRAOBvso_XeLbxSYin/view?usp=sharing
 <br/><br/>
-**# 🎮 How to Play**
+**🎮 How to Play**
 <br/>
 - Click on **Rock**, **Paper**, or **Scissors**.
   <br/>
@@ -17,12 +17,17 @@
   <br/>
 - Game continues until you refresh the page.
   <br/>
-**# 📂 Project Structure**
+📂 **Project Structure**
 ├── index.html # Main HTML file
+<br/>
 ├── style.css # Styling for layout and design
+<br/>
 ├── script.js # Game logic in JavaScript
+<br/>
 ├── rock.png # Image for Rock
+<br/>
 ├── paper.png # Image for Paper
+<br/>
 └── scissors.png # Image for Scissors
 
 
