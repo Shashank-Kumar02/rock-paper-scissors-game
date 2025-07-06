@@ -3,20 +3,23 @@
 <br/>
 # 🪨 Rock Paper Scissors Game ✂️
 <br/>
-**🖥️Demo**
+
+🖥️ **Demo**
 <br>
 **Game Screenshot:-** https://drive.google.com/file/d/1EK6-z0N7Ssjhj-wRAOBvso_XeLbxSYin/view?usp=sharing
 <br><br>
-**🎮 How to Play**
+
+🎮 **How to Play**
 <br/>
 - Click on **Rock**, **Paper**, or **Scissors**.
-  <br>
+  <br/>
 - The computer will randomly choose its move.
-  <br>
+  <br/>
 - The result (win/lose/draw) will be displayed along with updated scores.
-  <br>
+  <br/>
 - Game continues until you refresh the page.
-  <br><br>
+  <br/><br/>
+  
 📂 **Project Structure**
 <br/>
 ├── index.html # Main HTML file
@@ -31,7 +34,8 @@
 <br/>
 └── scissors.png # Image for Scissors
 <br><br>
-**🛠️Technologies Used**
+🛠️ **Technologies Used**
+<br/>
 - **HTML5** – Markup structure
   <br>
 - **CSS3** – Styling and layout
