@@ -43,7 +43,6 @@
 - **JavaScript (Vanilla)** – Game logic and interactivity
  <br><br>
  🙌 **Author**
-<br/>
   **Shashank Kumar**
   <br/>
   https://www.linkedin.com/in/shashank-kumar-50098928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
