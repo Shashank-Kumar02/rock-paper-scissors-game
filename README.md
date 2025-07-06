@@ -3,11 +3,11 @@
 <br/>
 # 🪨 Rock Paper Scissors Game ✂️
 <br/>
-🖥️ **Demo**
+**🖥️Demo**
 <br>
 **Game Screenshot:-** https://drive.google.com/file/d/1EK6-z0N7Ssjhj-wRAOBvso_XeLbxSYin/view?usp=sharing
 <br><br>
-🎮 **How to Play**
+**🎮 How to Play**
 <br/>
 - Click on **Rock**, **Paper**, or **Scissors**.
   <br>
@@ -16,7 +16,6 @@
 - The result (win/lose/draw) will be displayed along with updated scores.
   <br>
 - Game continues until you refresh the page.
-  
   <br><br>
 📂 **Project Structure**
 <br/>
@@ -32,11 +31,11 @@
 <br/>
 └── scissors.png # Image for Scissors
 <br><br>
-**🛠️ Technologies Used**
+**🛠️Technologies Used**
 - **HTML5** – Markup structure
-- <br>
+  <br>
 - **CSS3** – Styling and layout
-- <br>
+  <br>
 - **JavaScript (Vanilla)** – Game logic and interactivity
  <br><br>
  🙌 **Author**
